@@ -1,0 +1,2542 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (Web2C 2009) (format=pdflatex 2010.7.4)  18 JUL 2010 13:43
+entering extended mode
+ %&-line parsing enabled.
+**beamerthemeconfposter.sty
+(./beamerthemeconfposter.sty
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, basque, french, german-x-2009-06-19, ngerman-x-2009-06-19, german, 
+ngerman, ukenglish, loaded.
+
+LaTeX Warning: You have requested package `',
+               but the package provides `beamerthemeconfposter'.
+
+Package: beamerthemeconfposter 
+(/usr/share/texmf-site/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/share/texmf-site/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/share/texmf-site/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/share/texmf-site/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks14
+)
+(/usr/share/texmf-site/tex/generic/pgf/utilities/pgfutil-latex.def)
+(/usr/share/texmf-site/tex/generic/pgf/utilities/pgfrcs.code.tex
+Package: pgfrcs 2008/02/20 v2.00 (rcs-revision 1.21)
+))
+Package: pgf 2008/01/15 v2.00 (rcs-revision 1.12)
+
+(/usr/share/texmf-site/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2009/08/28 v1.8 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
+\Gread@gobject=\count79
+))
+\Gin@req@height=\dimen102
+\Gin@req@width=\dimen103
+)
+(/usr/share/texmf-site/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/share/texmf-site/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2008/02/07 v2.00 (rcs-revision 1.31)
+
+(/usr/share/texmf-site/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks16
+\pgfkeys@temptoks=\toks17
+)
+\pgf@x=\dimen104
+\pgf@y=\dimen105
+\pgf@xa=\dimen106
+\pgf@ya=\dimen107
+\pgf@xb=\dimen108
+\pgf@yb=\dimen109
+\pgf@xc=\dimen110
+\pgf@yc=\dimen111
+\c@pgf@counta=\count80
+\c@pgf@countb=\count81
+\c@pgf@countc=\count82
+\c@pgf@countd=\count83
+
+(/usr/share/texmf-site/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2008/01/13  (rcs-revision 1.6)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 885.
+
+(/usr/share/texmf-site/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2007/12/20  (rcs-revision 1.20)
+
+(/usr/share/texmf-site/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2007/12/17  (rcs-revision 1.8)
+)))
+(/usr/share/texmf-site/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2008/01/23  (rcs-revision 1.6)
+\pgfsyssoftpath@smallbuffer@items=\count84
+\pgfsyssoftpath@bigbuffer@items=\count85
+)
+(/usr/share/texmf-site/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(/usr/share/texmf-site/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2008/01/15 v2.00 (rcs-revision 1.6)
+
+(/usr/share/texmf-site/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/share/texmf-site/tex/generic/pgf/math/pgfmathcalc.code.tex
+(/usr/share/texmf-site/tex/generic/pgf/math/pgfmathutil.code.tex
+\pgfmath@box=\box26
+)
+(/usr/share/texmf-site/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@stack=\toks18
+\c@pgfmath@parsecounta=\count86
+\c@pgfmath@parsecountb=\count87
+\c@pgfmath@parsecountc=\count88
+\pgfmath@parsex=\dimen112
+)
+(/usr/share/texmf-site/tex/generic/pgf/math/pgfmathoperations.code.tex
+(/usr/share/texmf-site/tex/generic/pgf/math/pgfmathtrig.code.tex)
+(/usr/share/texmf-site/tex/generic/pgf/math/pgfmathrnd.code.tex))
+(/usr/share/texmf-site/tex/generic/pgf/math/pgfmathbase.code.tex)))
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2008/02/03  (rcs-revision 1.13)
+\pgf@picminx=\dimen113
+\pgf@picmaxx=\dimen114
+\pgf@picminy=\dimen115
+\pgf@picmaxy=\dimen116
+\pgf@pathminx=\dimen117
+\pgf@pathmaxx=\dimen118
+\pgf@pathminy=\dimen119
+\pgf@pathmaxy=\dimen120
+\pgf@xx=\dimen121
+\pgf@xy=\dimen122
+\pgf@yx=\dimen123
+\pgf@yy=\dimen124
+\pgf@zx=\dimen125
+\pgf@zy=\dimen126
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2008/02/13  (rcs-revision 1.14)
+\pgf@path@lastx=\dimen127
+\pgf@path@lasty=\dimen128
+) (/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2008/01/23  (rcs-revision 1.11)
+\pgf@shorten@end@additional=\dimen129
+\pgf@shorten@start@additional=\dimen130
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2008/01/15  (rcs-revision 1.26)
+\pgfpic=\box27
+\pgf@hbox=\box28
+\pgf@layerbox@main=\box29
+\pgf@picture@serial@count=\count89
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2007/12/12  (rcs-revision 1.8)
+\pgflinewidth=\dimen131
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcoretransformations.code.t
+ex
+File: pgfcoretransformations.code.tex 2008/02/04  (rcs-revision 1.10)
+\pgf@pt@x=\dimen132
+\pgf@pt@y=\dimen133
+\pgf@pt@temp=\dimen134
+) (/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.te
+x
+File: pgfcorepathprocessing.code.tex 2008/01/23  (rcs-revision 1.7)
+) (/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2007/06/07  (rcs-revision 1.8)
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2007/12/10  (rcs-revision 1.9)
+\pgf@max=\dimen135
+\pgf@sys@shading@range@num=\count90
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2008/01/15  (rcs-revision 1.1)
+\pgfexternal@startupbox=\box30
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2008/01/15  (rcs-revision 1.1)
+)
+(/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+) (/usr/share/texmf-site/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2008/01/15  (rcs-revision 1.1)
+)))
+(/usr/share/texmf-site/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2008/02/13  (rcs-revision 1.4)
+\pgfnodeparttextbox=\box31
+\toks@savedmacro=\toks19
+)
+(/usr/share/texmf-site/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2008/01/15  (rcs-revision 1.1)
+\pgf@plotwrite=\write3
+)
+(/usr/share/texmf-site/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v2.00 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen136
+\pgf@nodesepend=\dimen137
+)
+(/usr/share/texmf-site/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v2.00 (rcs-revision 1.1)
+))
+(/usr/share/texmf-site/tex/latex/pgf/utilities/pgffor.sty
+(/usr/share/texmf-site/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2007/11/07 v2.00 (rcs-revision 1.8)
+\pgffor@iter=\dimen138
+\pgffor@skip=\dimen139
+))
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2008/02/13 v2.00 (rcs-revision 1.27)
+
+(/usr/share/texmf-site/tex/generic/pgf/libraries/pgflibraryplothandlers.code.te
+x
+File: pgflibraryplothandlers.code.tex 2007/03/09 v2.00 (rcs-revision 1.9)
+\pgf@plot@mark@count=\count91
+\pgfplotmarksize=\dimen140
+)
+\tikz@lastx=\dimen141
+\tikz@lasty=\dimen142
+\tikz@lastxsaved=\dimen143
+\tikz@lastysaved=\dimen144
+\tikzleveldistance=\dimen145
+\tikzsiblingdistance=\dimen146
+\tikz@figbox=\box32
+\tikz@tempbox=\box33
+\tikztreelevel=\count92
+\tikznumberofchildren=\count93
+\tikznumberofcurrentchild=\count94
+\tikz@fig@count=\count95
+ (/usr/share/texmf-site/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2008/01/15  (rcs-revision 1.1)
+\pgfmatrixcurrentrow=\count96
+\pgfmatrixcurrentcolumn=\count97
+\pgf@matrix@numberofcolumns=\count98
+)
+\tikz@expandcount=\count99
+
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+topaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+)))
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+arrows.code.tex
+File: tikzlibraryarrows.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+
+(/usr/share/texmf-site/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2007/06/07 v2.00 (rcs-revision 1.7)
+))
+(/usr/share/texmf-site/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrary
+backgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+\pgf@layerbox@background=\box34
+\pgf@layerboxsaved@background=\box35
+) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(/usr/share/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+(/usr/share/texmf-dist/tex/latex/lm/lmodern.sty
+Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2005/09/27 v1.99g Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 71.
+
+(/usr/share/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 266.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 281.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 282.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 283.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 284.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 285.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 286.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 287.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 288.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 289.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 290.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 291.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 292.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 293.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 294.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 295.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 296.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 297.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 298.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 299.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 300.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 301.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 302.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 303.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 304.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 305.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 306.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 307.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 308.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 309.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 310.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 311.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 312.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 313.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 314.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 315.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 316.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 317.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 318.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 319.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 320.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 321.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 322.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 323.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 324.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 325.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 326.
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip41
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks20
+\ex@=\dimen147
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen148
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count100
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count101
+\leftroot@=\count102
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count103
+\DOTSCASE@=\count104
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box36
+\strutbox@=\box37
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count105
+\c@MaxMatrixCols=\count106
+\dotsspace@=\muskip10
+\c@parentequation=\count107
+\dspbrk@lvl=\count108
+\tag@help=\toks21
+\row@=\count109
+\column@=\count110
+\maxfields@=\count111
+\andhelp@=\toks22
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks23
+\multlinegap=\skip42
+\multlinetaggap=\skip43
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2009/06/22 v3.00
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2009/06/22 v3.00 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 96.
+))
+! Undefined control sequence.
+<recently read> \usefonttheme 
+                              
+l.17 \usefonttheme
+                  {professionalfonts}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 \usefonttheme{p
+                    rofessionalfonts}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: \usepackage before \documentclass.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19 \usepackage{
+                 ragged2e}
+\usepackage may only appear in the document preamble, i.e.,
+between \documentclass and \begin{document}.
+
+
+Overfull \hbox (92.12128pt too wide) in paragraph at lines 17--20
+[]\T1/cmr/m/n/10 professionalfonts
+ []
+
+\logocolw=\skip44
+! Undefined control sequence.
+l.40 \setbeamercolor
+                    {palette primary}   {fg=black,bg=white}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.40 \setbeamercolor{p
+                      alette primary}   {fg=black,bg=white}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.41 \setbeamercolor
+                    {palette secondary} {fg=black,bg=white}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.42 \setbeamercolor
+                    {palette tertiary}  {bg=jblue,fg=white}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.43 \setbeamercolor
+                    {palette quaternary}{fg=black,bg=white}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.44 \setbeamercolor
+                    {structure}{fg=jblue}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.45 \setbeamercolor
+                    {titlelike}         {bg=jblue,fg=white}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.46 \setbeamercolor
+                    {frametitle}        {bg=jblue!10,fg=jblue}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.47 \setbeamercolor
+                    {cboxb}{fg=black,bg=jblue}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.48 \setbeamercolor
+                    {cboxr}{fg=black,bg=red}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (49.99268pt too wide) in paragraph at lines 40--49
+[]\T1/cmr/m/n/10 palette
+ []
+
+
+Overfull \hbox (15.57953pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 pri-
+ []
+
+
+Overfull \hbox (22.52228pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 mary
+ []
+
+
+Overfull \hbox (83.5907pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 fg=black,bg=white
+ []
+
+
+Overfull \hbox (29.99268pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 palette
+ []
+
+
+Overfull \hbox (16.16272pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 sec-
+ []
+
+
+Overfull \hbox (30.29816pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 ondary
+ []
+
+
+Overfull \hbox (83.5907pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 fg=black,bg=white
+ []
+
+
+Overfull \hbox (29.99268pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 palette
+ []
+
+
+Overfull \hbox (15.57953pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 ter-
+ []
+
+
+Overfull \hbox (20.85602pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 tiary
+ []
+
+
+Overfull \hbox (82.20215pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 bg=jblue,fg=white
+ []
+
+
+Overfull \hbox (29.99268pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 palette
+ []
+
+
+Overfull \hbox (19.16199pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 qua-
+ []
+
+
+Overfull \hbox (15.57953pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 ter-
+ []
+
+
+Overfull \hbox (103.33588pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 naryfg=black,bg=white
+ []
+
+
+Overfull \hbox (25.07721pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 struc-
+ []
+
+
+Overfull \hbox (55.01434pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 turefg=jblue
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (14.99634pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 like
+ []
+
+
+Overfull \hbox (82.20215pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 bg=jblue,fg=white
+ []
+
+
+Overfull \hbox (23.63312pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 fram-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 eti-
+ []
+
+
+Overfull \hbox (11.1084pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 tle
+ []
+
+
+Overfull \hbox (92.47742pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 bg=jblue!10,fg=jblue
+ []
+
+
+Overfull \hbox (106.91833pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 cboxbfg=black,bg=jblue
+ []
+
+
+Overfull \hbox (97.80945pt too wide) in paragraph at lines 40--49
+\T1/cmr/m/n/10 cboxrfg=black,bg=red 
+ []
+
+! Undefined control sequence.
+l.51 \setbeamercolor
+                    {item}{fg=ngreen}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \setbeamercolor{i
+                      tem}{fg=ngreen}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.52 \setbeamercolor
+                    {item projected}{fg=white,bg=ngreen}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (84.17877pt too wide) in paragraph at lines 51--53
+[]\T1/cmr/m/n/10 itemfg=ngreen
+ []
+
+
+Overfull \hbox (19.4397pt too wide) in paragraph at lines 51--53
+\T1/cmr/m/n/10 item
+ []
+
+
+Overfull \hbox (17.80121pt too wide) in paragraph at lines 51--53
+\T1/cmr/m/n/10 pro-
+ []
+
+
+Overfull \hbox (19.16199pt too wide) in paragraph at lines 51--53
+\T1/cmr/m/n/10 ject-
+ []
+
+
+Overfull \hbox (99.72565pt too wide) in paragraph at lines 51--53
+\T1/cmr/m/n/10 edfg=white,bg=ngreen 
+ []
+
+! Undefined control sequence.
+l.55 \setbeamercolor
+                    {block title}{fg=ngreen,bg=white}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.55 \setbeamercolor{b
+                      lock title}{fg=ngreen,bg=white}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.56 \setbeamercolor
+                    {block body}{fg=black,bg=white}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (43.04993pt too wide) in paragraph at lines 55--57
+[]\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 55--57
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (100.83649pt too wide) in paragraph at lines 55--57
+\T1/cmr/m/n/10 tlefg=ngreen,bg=white
+ []
+
+
+Overfull \hbox (23.04993pt too wide) in paragraph at lines 55--57
+\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (105.52979pt too wide) in paragraph at lines 55--57
+\T1/cmr/m/n/10 bodyfg=black,bg=white 
+ []
+
+! Undefined control sequence.
+l.59 \setbeamercolor
+                    {block alerted title}{fg=white,bg=jblue}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 \setbeamercolor{b
+                      lock alerted title}{fg=white,bg=jblue}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.60 \setbeamercolor
+                    {block alerted body}{fg=black,bg=jblue!10}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (43.04993pt too wide) in paragraph at lines 59--61
+[]\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (30.02045pt too wide) in paragraph at lines 59--61
+\T1/cmr/m/n/10 alerted
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 59--61
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (93.31055pt too wide) in paragraph at lines 59--61
+\T1/cmr/m/n/10 tlefg=white,bg=jblue
+ []
+
+
+Overfull \hbox (23.04993pt too wide) in paragraph at lines 59--61
+\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (30.02045pt too wide) in paragraph at lines 59--61
+\T1/cmr/m/n/10 alerted
+ []
+
+
+Overfull \hbox (115.80505pt too wide) in paragraph at lines 59--61
+\T1/cmr/m/n/10 bodyfg=black,bg=jblue!10 
+ []
+
+! Undefined control sequence.
+l.63 \setbeamerfont
+                   {section in head/foot}{series=\bfseries}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.63 \setbeamerfont{s
+                     ection in head/foot}{series=\bfseries}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.64 \setbeamerfont
+                   {block title}{series=\bfseries}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.65 \setbeamerfont
+                   {block alerted title}{series=\bfseries}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.66 \setbeamerfont
+                   {frametitle}{series=\bfseries}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.67 \setbeamerfont
+                   {frametitle}{size=\Large}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.67 \setbeamerfont{frametitle}{size=\Large
+                                           }
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (50.04822pt too wide) in paragraph at lines 63--68
+[]\T1/cmr/m/n/10 section
+ []
+
+
+Overfull \hbox (8.3313pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 in
+ []
+
+
+Overfull \hbox (74.0097pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 head/footseries=
+ []
+
+
+Overfull \hbox (23.04993pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (31.24237pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 series=
+ []
+
+
+Overfull \hbox (23.04993pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (30.02045pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 alerted
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (31.24237pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 series=
+ []
+
+
+Overfull \hbox (23.63312pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 fram-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 eti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (31.24237pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 series=
+ []
+
+
+Overfull \hbox (23.63312pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 fram-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 eti-
+ []
+
+
+Overfull \hbox (14.44092pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 tle-
+ []
+
+
+Overfull \hbox (23.38318pt too wide) in paragraph at lines 63--68
+\T1/cmr/m/n/10 size= 
+ []
+
+! Undefined control sequence.
+l.70 \setbeamertemplate
+                       {title page}[default][colsep=-4bp,rounded=true]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.70 \setbeamertemplate{t
+                         itle page}[default][colsep=-4bp,rounded=true]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.71 \setbeamertemplate
+                       {sections/subsections in toc}[square]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.72 \setbeamertemplate
+                       {items}[circle]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.73 \setbeamertemplate
+                       {blocks}[width=0.0]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.74 \beamertemplatenavigationsymbolsempty
+                                          
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (37.77344pt too wide) in paragraph at lines 70--75
+[]\T1/cmr/m/n/10 title
+ []
+
+
+Overfull \hbox (95.86548pt too wide) in paragraph at lines 70--75
+\T1/cmr/m/n/10 page[default][colsep=-
+ []
+
+
+Overfull \hbox (82.81311pt too wide) in paragraph at lines 70--75
+\T1/cmr/m/n/10 4bp,rounded=true]
+ []
+
+
+Overfull \hbox (16.16272pt too wide) in paragraph at lines 70--75
+\T1/cmr/m/n/10 sec-
+ []
+
+
+Overfull \hbox (75.20386pt too wide) in paragraph at lines 70--75
+\T1/cmr/m/n/10 tions/subsections
+ []
+
+
+Overfull \hbox (8.3313pt too wide) in paragraph at lines 70--75
+\T1/cmr/m/n/10 in
+ []
+
+
+Overfull \hbox (47.294pt too wide) in paragraph at lines 70--75
+\T1/cmr/m/n/10 toc[square]
+ []
+
+
+Overfull \hbox (51.73737pt too wide) in paragraph at lines 70--75
+\T1/cmr/m/n/10 items[circle]
+ []
+
+
+Overfull \hbox (78.09204pt too wide) in paragraph at lines 70--75
+\T1/cmr/m/n/10 blocks[width=0.0] 
+ []
+
+! Undefined control sequence.
+l.77 \setbeamertemplate
+                       {bibliography item}[text]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.77 \setbeamertemplate{b
+                         ibliography item}[text]
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.78 \setbeamercolor
+                    {bibliography item}{fg=black,bg=white}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.79 \setbeamercolor
+                    {bibliography entry author}{fg=black,bg=white}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.80 \setbeamercolor
+                    {bibliography item}{fg=black,bg=white}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (74.45892pt too wide) in paragraph at lines 77--81
+[]\T1/cmr/m/n/10 bibliography
+ []
+
+
+Overfull \hbox (42.48962pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 item[text]
+ []
+
+
+Overfull \hbox (17.21802pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 bib-
+ []
+
+
+Overfull \hbox (8.88672pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 li-
+ []
+
+
+Overfull \hbox (13.33008pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 og-
+ []
+
+
+Overfull \hbox (12.24701pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 ra-
+ []
+
+
+Overfull \hbox (16.10718pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 phy
+ []
+
+
+Overfull \hbox (103.0304pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 itemfg=black,bg=white
+ []
+
+
+Overfull \hbox (17.21802pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 bib-
+ []
+
+
+Overfull \hbox (8.88672pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 li-
+ []
+
+
+Overfull \hbox (13.33008pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 og-
+ []
+
+
+Overfull \hbox (12.24701pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 ra-
+ []
+
+
+Overfull \hbox (16.10718pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 phy
+ []
+
+
+Overfull \hbox (13.33008pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 en-
+ []
+
+
+Overfull \hbox (13.08014pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 try
+ []
+
+
+Overfull \hbox (13.8855pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 au-
+ []
+
+
+Overfull \hbox (101.94733pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 thorfg=black,bg=white
+ []
+
+
+Overfull \hbox (17.21802pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 bib-
+ []
+
+
+Overfull \hbox (8.88672pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 li-
+ []
+
+
+Overfull \hbox (13.33008pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 og-
+ []
+
+
+Overfull \hbox (12.24701pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 ra-
+ []
+
+
+Overfull \hbox (16.10718pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 phy
+ []
+
+
+Overfull \hbox (103.0304pt too wide) in paragraph at lines 77--81
+\T1/cmr/m/n/10 itemfg=black,bg=white 
+ []
+
+\inboxwd=\skip45
+\iinboxwd=\skip46
+\inboxrule=\skip47
+! Undefined control sequence.
+l.88  \ifportrait
+                 
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra \fi.
+l.90  \fi
+         
+I'm ignoring this; it doesn't match any \if.
+
+! Undefined control sequence.
+l.96 \setbeamertemplate
+                       {headline}{
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 \setbeamertemplate{h
+                         eadline}{
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Environment columns undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98   \begin{columns}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment column undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.99    \begin{column}
+                      {120cm}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (56.1023pt too wide) in paragraph at lines 96--100
+[]\T1/cmr/m/n/10 headline
+ []
+
+
+Overfull \hbox (27.771pt too wide) in paragraph at lines 96--100
+\T1/cmr/m/n/10 120cm 
+ []
+
+! Undefined control sequence.
+l.102     \usebeamercolor
+                         {title in headline}{\color{jblue}\Huge{\textbf{\ins...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+LaTeX Font Info:    Try loading font information for T1+lmr on input line 102.
+(/usr/share/texmf-dist/tex/latex/lm/t1lmr.fd
+File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102     \usebeamercolor{t
+                           itle in headline}{\color{jblue}\Huge{\textbf{\ins...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.102     \usebeamercolor{t
+                           itle in headline}{\color{jblue}\Huge{\textbf{\ins...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+\set@color ...\@pdfcolorstack push{\current@color 
+                                                  }\aftergroup \reset@color 
+l.102     \usebeamercolor{t
+                           itle in headline}{\color{jblue}\Huge{\textbf{\ins...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[1{//var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.102     \usebeamercolor{t
+                           itle in headline}{\color{jblue}\Huge{\textbf{\ins...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.102 ...lor{title in headline}{\color{jblue}\Huge
+                                                  {\textbf{\inserttitle}}\\[...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<recently read> \inserttitle 
+                             
+l.102 ...{\color{jblue}\Huge{\textbf{\inserttitle}
+                                                  }\\[0.5ex]}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (17.77344pt too wide) in paragraph at lines 102--102
+ []\T1/cmr/m/n/10 title 
+ []
+
+
+Overfull \hbox (8.3313pt too wide) in paragraph at lines 102--102
+ \T1/cmr/m/n/10 in 
+ []
+
+
+Overfull \hbox (23.88306pt too wide) in paragraph at lines 102--102
+ \T1/cmr/m/n/10 head- 
+ []
+
+
+Overfull \hbox (15.55176pt too wide) in paragraph at lines 102--102
+ \T1/cmr/m/n/10 line[] 
+ []
+
+! Undefined control sequence.
+l.103     \usebeamercolor
+                         {author in headline}{\color{fg}\Large{\insertauthor...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103     \usebeamercolor{a
+                           uthor in headline}{\color{fg}\Large{\insertauthor...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package xcolor Error: Undefined color `fg'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 ...eamercolor{author in headline}{\color{fg}
+                                                  \Large{\insertauthor}\\[1ex]}
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.103 ...olor{author in headline}{\color{fg}\Large
+                                                  {\insertauthor}\\[1ex]}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.103 ... headline}{\color{fg}\Large{\insertauthor
+                                                  }\\[1ex]}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (28.9096pt too wide) in paragraph at lines 103--103
+ []\T1/cmr/m/n/10 author 
+ []
+
+
+Overfull \hbox (8.3313pt too wide) in paragraph at lines 103--103
+ \T1/cmr/m/n/10 in 
+ []
+
+
+Overfull \hbox (23.88306pt too wide) in paragraph at lines 103--103
+ \T1/cmr/m/n/10 head- 
+ []
+
+
+Overfull \hbox (15.55176pt too wide) in paragraph at lines 103--103
+ \T1/cmr/m/n/10 line[] 
+ []
+
+! Undefined control sequence.
+l.104     \usebeamercolor
+                         {institute in headline}{\color{fg}\large{\insertins...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104     \usebeamercolor{i
+                           nstitute in headline}{\color{fg}\large{\insertins...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package xcolor Error: Undefined color `fg'.
+
+See the xcolor package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.104 ...ercolor{institute in headline}{\color{fg}
+                                                  \large{\insertinstitute}\\...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.104 ...r{institute in headline}{\color{fg}\large
+                                                  {\insertinstitute}\\[1ex]}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.104 ...adline}{\color{fg}\large{\insertinstitute
+                                                  }\\[1ex]}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (36.71326pt too wide) in paragraph at lines 104--104
+ []\T1/cmr/m/n/10 institute 
+ []
+
+
+Overfull \hbox (8.3313pt too wide) in paragraph at lines 104--104
+ \T1/cmr/m/n/10 in 
+ []
+
+
+Overfull \hbox (23.88306pt too wide) in paragraph at lines 104--104
+ \T1/cmr/m/n/10 head- 
+ []
+
+
+Overfull \hbox (15.55176pt too wide) in paragraph at lines 104--104
+ \T1/cmr/m/n/10 line[] 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{column}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106    \end{column}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment column undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107    \begin{column}
+                       {\logocolw}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.107    \begin{column}{\logocolw}
+                                  
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.107    \begin{column}{\logocolw}
+                                  
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.108     \begin{center}
+                        
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 108--108
+[] 
+ []
+
+<logo.pdf, id=9, 159.797pt x 222.431pt>
+File: logo.pdf Graphic file (type pdf)
+ <use logo.pdf>
+Overfull \hbox (170.71652pt too wide) in paragraph at lines 109--110
+ [] 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{column}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.111    \end{column}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{columns}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.113   \end{columns}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment beamercolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115  \hspace{0.5in}\begin{beamercolorbox}
+                                           [wd=47in,colsep=0.15cm]{cboxb}\en...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{beamercolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.115 ...colsep=0.15cm]{cboxb}\end{beamercolorbox}
+                                                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (173.65697pt too wide) in paragraph at lines 115--118
+ \T1/cmr/m/n/10 [wd=47in,colsep=0.15cm]cboxb
+ []
+
+! Undefined control sequence.
+l.120 \setbeamertemplate
+                        {block begin}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.120 \setbeamertemplate{b
+                          lock begin}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (43.04993pt too wide) in paragraph at lines 120--122
+[]\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (13.60779pt too wide) in paragraph at lines 120--122
+\T1/cmr/m/n/10 be-
+ []
+
+
+Overfull \hbox (13.33008pt too wide) in paragraph at lines 120--122
+\T1/cmr/m/n/10 gin
+ []
+
+
+! LaTeX Error: Environment beamercolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.123   \begin{beamercolorbox}
+                              [colsep*=0ex,dp={2ex},center]{block title}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.123   \begin{beamercolorbox}[
+                               colsep*=0ex,dp={2ex},center]{block title}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (167.82501pt too wide) in paragraph at lines 123--124
+[]\T1/cmr/m/n/10 [colsep*=0ex,dp=2ex,center]block
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 123--124
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (11.1084pt too wide) in paragraph at lines 123--124
+\T1/cmr/m/n/10 tle 
+ []
+
+! Undefined control sequence.
+l.125     \usebeamerfont
+                        {block title}\large\insertblocktitle
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125     \usebeamerfont{b
+                          lock title}\large\insertblocktitle
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.125     \usebeamerfont{block title}\large
+                                           \insertblocktitle
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.125 ...rfont{block title}\large\insertblocktitle
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (43.04993pt too wide) in paragraph at lines 125--126
+[]\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 125--126
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (11.1084pt too wide) in paragraph at lines 125--126
+\T1/cmr/m/n/10 tle 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{beamercolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.133   \end{beamercolorbox}
+                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.135   \ifbeamercolorempty
+                           [bg]{block title}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.137   {\ifbeamercolorempty
+                            [bg]{block body}{}{\nointerlineskip\vskip-0.5pt}}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! You can't use `\prevdepth' in horizontal mode.
+\nointerlineskip ->\prevdepth 
+                              -\@m \p@ 
+l.137 ...rempty[bg]{block body}{}{\nointerlineskip
+                                                  \vskip-0.5pt}}
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.137 ...rempty[bg]{block body}{}{\nointerlineskip
+                                                  \vskip-0.5pt}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 137.
+
+(/usr/share/texmf-dist/tex/latex/lm/ot1lmr.fd
+File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 137.
+
+
+(/usr/share/texmf-dist/tex/latex/lm/omllmm.fd
+File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 137
+.
+
+(/usr/share/texmf-dist/tex/latex/lm/omslmsy.fd
+File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 137
+.
+
+(/usr/share/texmf-dist/tex/latex/lm/omxlmex.fd
+File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 137.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 137.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 137.
+LaTeX Font Info:    Try loading font information for U+msa on input line 137.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2009/06/22 v3.00 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 137.
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2009/06/22 v3.00 AMS symbols B
+)
+! Missing number, treated as zero.
+<to be read again> 
+                   \vskip 
+l.137 ...[bg]{block body}{}{\nointerlineskip\vskip
+                                                  -0.5pt}}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   \vskip 
+l.137 ...[bg]{block body}{}{\nointerlineskip\vskip
+                                                  -0.5pt}}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.137 ...[bg]{block body}{}{\nointerlineskip\vskip
+                                                  -0.5pt}}
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no è in font lmex10!
+
+Overfull \hbox (39.1571pt too wide) in paragraph at lines 135--137
+\T1/cmr/m/n/10 [bg]block
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 135--137
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (11.1084pt too wide) in paragraph at lines 135--137
+\T1/cmr/m/n/10 tle
+ []
+
+
+Overfull \hbox (39.1571pt too wide) in paragraph at lines 135--137
+\T1/cmr/m/n/10 [bg]block
+ []
+
+
+Overfull \hbox (25.2716pt too wide) in paragraph at lines 135--137
+\T1/cmr/m/n/10 body-
+ []
+
+! Undefined control sequence.
+l.138   \usebeamerfont
+                      {block body}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (43.04993pt too wide) in paragraph at lines 138--139
+[]\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (21.93909pt too wide) in paragraph at lines 138--139
+\T1/cmr/m/n/10 body 
+ []
+
+
+! LaTeX Error: Environment beamercolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.140   \begin{beamercolorbox}
+                              [colsep*=0ex,vmode]{block body}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.141   \justifying
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra }, or forgotten \endgroup.
+l.142 }
+       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+
+Overfull \hbox (133.91663pt too wide) in paragraph at lines 140--143
+[]\T1/cmr/m/n/10 [colsep*=0ex,vmode]block
+ []
+
+
+Overfull \hbox (21.93909pt too wide) in paragraph at lines 140--143
+\T1/cmr/m/n/10 body
+ []
+
+! Undefined control sequence.
+l.144 \setbeamertemplate
+                        {block end}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{beamercolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146   \end{beamercolorbox}
+                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.146   \end{beamercolorbox}
+                            
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (43.04993pt too wide) in paragraph at lines 144--147
+[]\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (15.55176pt too wide) in paragraph at lines 144--147
+\T1/cmr/m/n/10 end
+ []
+
+! Undefined control sequence.
+l.151 \setbeamertemplate
+                        {block alerted begin}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.151 \setbeamertemplate{b
+                          lock alerted begin}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (43.04993pt too wide) in paragraph at lines 151--153
+[]\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (30.02045pt too wide) in paragraph at lines 151--153
+\T1/cmr/m/n/10 alerted
+ []
+
+
+Overfull \hbox (13.60779pt too wide) in paragraph at lines 151--153
+\T1/cmr/m/n/10 be-
+ []
+
+
+Overfull \hbox (13.33008pt too wide) in paragraph at lines 151--153
+\T1/cmr/m/n/10 gin
+ []
+
+
+! LaTeX Error: Environment beamercolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.154   \begin{beamercolorbox}
+                              [sep=0ex,rounded=true,center,dp={2ex}]{block a...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.154   \begin{beamercolorbox}[
+                               sep=0ex,rounded=true,center,dp={2ex}]{block a...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (214.53583pt too wide) in paragraph at lines 154--155
+[]\T1/cmr/m/n/10 [sep=0ex,rounded=true,center,dp=2ex]block
+ []
+
+
+Overfull \hbox (30.02045pt too wide) in paragraph at lines 154--155
+\T1/cmr/m/n/10 alerted
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 154--155
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (11.1084pt too wide) in paragraph at lines 154--155
+\T1/cmr/m/n/10 tle 
+ []
+
+! Undefined control sequence.
+l.156     \usebeamerfont
+                        {block title}\large\insertblocktitle
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.156     \usebeamerfont{b
+                          lock title}\large\insertblocktitle
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+! Undefined control sequence.
+l.156     \usebeamerfont{block title}\large
+                                           \insertblocktitle
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.156 ...rfont{block title}\large\insertblocktitle
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: \begin{document} ended by \end{beamercolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.157   \end{beamercolorbox}
+                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (43.04993pt too wide) in paragraph at lines 156--158
+[]\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 156--158
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (11.1084pt too wide) in paragraph at lines 156--158
+\T1/cmr/m/n/10 tle 
+ []
+
+! Undefined control sequence.
+l.159   \usebeamerfont
+                      {block body}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159   \usebeamerfont{b
+                        lock body}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (43.04993pt too wide) in paragraph at lines 159--160
+[]\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (21.93909pt too wide) in paragraph at lines 159--160
+\T1/cmr/m/n/10 body 
+ []
+
+
+! LaTeX Error: Environment beamercolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.161   \begin{beamercolorbox}
+                              [sep=0.5cm, rounded=true,center]{block alerted...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.161   \begin{beamercolorbox}[
+                               sep=0.5cm, rounded=true,center]{block alerted...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: Environment beamercolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.164   \begin{beamercolorbox}
+                              [rounded=true,wd={\inboxwd},center]{block aler...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing number, treated as zero.
+<to be read again> 
+                   }
+l.164 ...eamercolorbox}[rounded=true,wd={\inboxwd}
+                                                  ,center]{block alerted body}
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   }
+l.164 ...eamercolorbox}[rounded=true,wd={\inboxwd}
+                                                  ,center]{block alerted body}
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+
+Overfull \hbox (72.82043pt too wide) in paragraph at lines 161--169
+[]\T1/cmr/m/n/10 [sep=0.5cm,
+ []
+
+
+Overfull \hbox (116.16608pt too wide) in paragraph at lines 161--169
+\T1/cmr/m/n/10 rounded=true,center]block
+ []
+
+
+Overfull \hbox (30.02045pt too wide) in paragraph at lines 161--169
+\T1/cmr/m/n/10 alerted
+ []
+
+
+Overfull \hbox (9.99756pt too wide) in paragraph at lines 161--169
+\T1/cmr/m/n/10 ti-
+ []
+
+
+Overfull \hbox (11.1084pt too wide) in paragraph at lines 161--169
+\T1/cmr/m/n/10 tle
+ []
+
+
+Overfull \hbox (142.27081pt too wide) in paragraph at lines 161--169
+\T1/cmr/m/n/10 [rounded=true,wd=,center]block
+ []
+
+
+Overfull \hbox (30.02045pt too wide) in paragraph at lines 161--169
+\T1/cmr/m/n/10 alerted
+ []
+
+
+Overfull \hbox (21.93909pt too wide) in paragraph at lines 161--169
+\T1/cmr/m/n/10 body
+ []
+
+! Undefined control sequence.
+l.171   \justifying
+                   
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Extra }, or forgotten \endgroup.
+l.172 }
+       
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+! Undefined control sequence.
+l.174 \setbeamertemplate
+                        {block alerted end}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (65.72903pt too wide) in paragraph at lines 174--176
+[]\T1/cmr/m/n/10 block
+ []
+
+
+Overfull \hbox (72.69955pt too wide) in paragraph at lines 174--176
+\T1/cmr/m/n/10 alerted
+ []
+
+
+Overfull \hbox (58.23087pt too wide) in paragraph at lines 174--176
+\T1/cmr/m/n/10 end
+ []
+
+
+Overfull \hbox (42.67911pt too wide) in paragraph at lines 174--176
+
+ []
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.176   \end{minipage}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+! LaTeX Error: \begin{document} ended by \end{beamercolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.178   \end{beamercolorbox}
+                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{beamercolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.179   \end{beamercolorbox}
+                            
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> beamerthemeconfposter.sty
+                             
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 8643 strings out of 494971
+ 149631 string characters out of 3179581
+ 194139 words of memory out of 3000000
+ 11671 multiletter control sequences out of 15000+200000
+ 20424 words of font info for 33 fonts, out of 3000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 47i,6n,49p,365b,450s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!

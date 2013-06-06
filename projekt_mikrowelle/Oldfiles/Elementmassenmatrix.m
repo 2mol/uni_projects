@@ -1,0 +1,1 @@
+function Me=Elementmassenmatrix(N,T,el);%% Berechnet die Elementmassenmatrix fuer das%% Element el % Das Integral muss man bei Hand berechnen  ..

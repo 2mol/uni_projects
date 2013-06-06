@@ -1,0 +1,1 @@
+function Ae=Elementsteifigkeitsmatrix(N,T,el);%% Berechnet die Elementsteifigkeitsmatrix fuer das %% Element el Ecken=[N(T(el,1),:); N(T(el,2),:); N(T(el,3),:)];% Koord der Dreieck x1=Ecken(1,1); y1=Ecken(1,2);x2=Ecken(2,1); y2=Ecken(2,2);x3=Ecken(3,1); y3=Ecken(3,2);% Siehe Vorlesung J=[x2-x1 x3-x1;y2-y1 y3-y1];D=[-ones(1,2);eye(2)]/J;Ae=abs(det(J))/2.*D*D';

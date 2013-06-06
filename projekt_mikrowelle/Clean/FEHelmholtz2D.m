@@ -1,0 +1,1 @@
+function u=FEHelmholtz(g,N,T,w,P);%% FE Loeser fuer die Helmholtz-Glg% Assemblierung[A,M,b]=AssembHelmoltz2D(g,N,T,P);% Loesung des Gleichungssystemau=(-A+w^2*M)\b;A = full(A);M = full(M);save mi_A.dat -ASCII Asave mi_M.dat -ASCII M

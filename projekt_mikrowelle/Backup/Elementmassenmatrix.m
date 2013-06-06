@@ -1,0 +1,1 @@
+function Me=Elementmassenmatrix(N,T,el);%% Berechnet die Elementmassenmatrix fuer das%% Element el F=[1 N(T(el,1),1) N(T(el,1),2);   1 N(T(el,2),1) N(T(el,2),2);   1 N(T(el,3),1) N(T(el,3),2)];fl=abs(det(F));% Me=[ 1/24 -1/24 -1/24;%     -1/24  1/3   1/2;%     -1/24  1/2   1/3];Me=[1/12 1/24 1/24;    1/24 1/12 1/24;    1/24 1/24 1/12];Me=fl*Me;

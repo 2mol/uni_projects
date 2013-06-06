@@ -1,0 +1,1 @@
+function [Nr,Tr,Pr]=GitVerfeinerung(N,T,P);%% einfache Gitterverfeinerung% Nr,Tr,Pr -> Neuen Knoten, Dreiecken und %             Material-Konstanten

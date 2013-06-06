@@ -1,0 +1,1 @@
+function Ae=Elementsteifigkeitsmatrix(N,T,el);%% Berechnet die Elementsteifigkeitsmatrix fuer das %% Element el  ..
